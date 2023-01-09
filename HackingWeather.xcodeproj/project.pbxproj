@@ -11,6 +11,28 @@
 		4D50EAF7295DE7DC001CDF97 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EAF6295DE7DC001CDF97 /* ContentView.swift */; };
 		4D50EAF9295DE7DD001CDF97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D50EAF8295DE7DD001CDF97 /* Assets.xcassets */; };
 		4D50EAFC295DE7DD001CDF97 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4D50EAFB295DE7DD001CDF97 /* Preview Assets.xcassets */; };
+		4D50EB03295DE871001CDF97 /* Cloud.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB02295DE871001CDF97 /* Cloud.swift */; };
+		4D50EB05295DE9A9001CDF97 /* CloudGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB04295DE9A9001CDF97 /* CloudGroup.swift */; };
+		4D50EB07295DEC59001CDF97 /* CloudsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB06295DEC59001CDF97 /* CloudsView.swift */; };
+		4D50EB09295E11A1001CDF97 /* Color-Custom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB08295E11A1001CDF97 /* Color-Custom.swift */; };
+		4D50EB0B295E12CA001CDF97 /* Array.GradientStop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB0A295E12CA001CDF97 /* Array.GradientStop.swift */; };
+		4D50EB0D295F2A74001CDF97 /* Color-Interpolation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB0C295F2A74001CDF97 /* Color-Interpolation.swift */; };
+		4D50EB0F295F42F0001CDF97 /* Star.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB0E295F42F0001CDF97 /* Star.swift */; };
+		4D50EB11295F4348001CDF97 /* StarField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB10295F4348001CDF97 /* StarField.swift */; };
+		4D50EB13295F4489001CDF97 /* StarsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB12295F4489001CDF97 /* StarsView.swift */; };
+		4D50EB15295F59B1001CDF97 /* Storm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB14295F59B1001CDF97 /* Storm.swift */; };
+		4D50EB17295F5A42001CDF97 /* StormDrop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB16295F5A42001CDF97 /* StormDrop.swift */; };
+		4D50EB19295F5DB4001CDF97 /* StormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB18295F5DB4001CDF97 /* StormView.swift */; };
+		4D50EB1B295F63E7001CDF97 /* ResidueDrop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB1A295F63E7001CDF97 /* ResidueDrop.swift */; };
+		4D50EB1D295F6565001CDF97 /* Residue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB1C295F6565001CDF97 /* Residue.swift */; };
+		4D50EB1F295F6FAF001CDF97 /* ResidueView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB1E295F6FAF001CDF97 /* ResidueView.swift */; };
+		4D50EB21295F70B3001CDF97 /* WeatherDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D50EB20295F70B3001CDF97 /* WeatherDetailsView.swift */; };
+		4D52765A2969B5900095EFC9 /* SunView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D5276592969B5900095EFC9 /* SunView.swift */; };
+		4D52765C2969BCCC0095EFC9 /* Meteor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D52765B2969BCCC0095EFC9 /* Meteor.swift */; };
+		4D52765E2969BE880095EFC9 /* MeteorShower.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D52765D2969BE880095EFC9 /* MeteorShower.swift */; };
+		4D84425B2967222400CE6898 /* LightningBolt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D84425A2967222400CE6898 /* LightningBolt.swift */; };
+		4D84425D296723B100CE6898 /* Lightning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D84425C296723B100CE6898 /* Lightning.swift */; };
+		4D84425F29672F6000CE6898 /* LightningView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D84425E29672F6000CE6898 /* LightningView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +41,28 @@
 		4D50EAF6295DE7DC001CDF97 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4D50EAF8295DE7DD001CDF97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4D50EAFB295DE7DD001CDF97 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4D50EB02295DE871001CDF97 /* Cloud.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cloud.swift; sourceTree = "<group>"; };
+		4D50EB04295DE9A9001CDF97 /* CloudGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudGroup.swift; sourceTree = "<group>"; };
+		4D50EB06295DEC59001CDF97 /* CloudsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudsView.swift; sourceTree = "<group>"; };
+		4D50EB08295E11A1001CDF97 /* Color-Custom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Custom.swift"; sourceTree = "<group>"; };
+		4D50EB0A295E12CA001CDF97 /* Array.GradientStop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.GradientStop.swift; sourceTree = "<group>"; };
+		4D50EB0C295F2A74001CDF97 /* Color-Interpolation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Interpolation.swift"; sourceTree = "<group>"; };
+		4D50EB0E295F42F0001CDF97 /* Star.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Star.swift; sourceTree = "<group>"; };
+		4D50EB10295F4348001CDF97 /* StarField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarField.swift; sourceTree = "<group>"; };
+		4D50EB12295F4489001CDF97 /* StarsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarsView.swift; sourceTree = "<group>"; };
+		4D50EB14295F59B1001CDF97 /* Storm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storm.swift; sourceTree = "<group>"; };
+		4D50EB16295F5A42001CDF97 /* StormDrop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StormDrop.swift; sourceTree = "<group>"; };
+		4D50EB18295F5DB4001CDF97 /* StormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StormView.swift; sourceTree = "<group>"; };
+		4D50EB1A295F63E7001CDF97 /* ResidueDrop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResidueDrop.swift; sourceTree = "<group>"; };
+		4D50EB1C295F6565001CDF97 /* Residue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Residue.swift; sourceTree = "<group>"; };
+		4D50EB1E295F6FAF001CDF97 /* ResidueView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResidueView.swift; sourceTree = "<group>"; };
+		4D50EB20295F70B3001CDF97 /* WeatherDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherDetailsView.swift; sourceTree = "<group>"; };
+		4D5276592969B5900095EFC9 /* SunView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SunView.swift; sourceTree = "<group>"; };
+		4D52765B2969BCCC0095EFC9 /* Meteor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meteor.swift; sourceTree = "<group>"; };
+		4D52765D2969BE880095EFC9 /* MeteorShower.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeteorShower.swift; sourceTree = "<group>"; };
+		4D84425A2967222400CE6898 /* LightningBolt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LightningBolt.swift; sourceTree = "<group>"; };
+		4D84425C296723B100CE6898 /* Lightning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lightning.swift; sourceTree = "<group>"; };
+		4D84425E29672F6000CE6898 /* LightningView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LightningView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +97,28 @@
 			children = (
 				4D50EAF4295DE7DC001CDF97 /* HackingWeatherApp.swift */,
 				4D50EAF6295DE7DC001CDF97 /* ContentView.swift */,
+				4D5276592969B5900095EFC9 /* SunView.swift */,
+				4D52765B2969BCCC0095EFC9 /* Meteor.swift */,
+				4D52765D2969BE880095EFC9 /* MeteorShower.swift */,
+				4D50EB1A295F63E7001CDF97 /* ResidueDrop.swift */,
+				4D50EB1C295F6565001CDF97 /* Residue.swift */,
+				4D50EB1E295F6FAF001CDF97 /* ResidueView.swift */,
+				4D50EB20295F70B3001CDF97 /* WeatherDetailsView.swift */,
+				4D50EB0E295F42F0001CDF97 /* Star.swift */,
+				4D50EB10295F4348001CDF97 /* StarField.swift */,
+				4D50EB12295F4489001CDF97 /* StarsView.swift */,
+				4D50EB14295F59B1001CDF97 /* Storm.swift */,
+				4D50EB18295F5DB4001CDF97 /* StormView.swift */,
+				4D84425A2967222400CE6898 /* LightningBolt.swift */,
+				4D84425C296723B100CE6898 /* Lightning.swift */,
+				4D84425E29672F6000CE6898 /* LightningView.swift */,
+				4D50EB16295F5A42001CDF97 /* StormDrop.swift */,
+				4D50EB0C295F2A74001CDF97 /* Color-Interpolation.swift */,
+				4D50EB0A295E12CA001CDF97 /* Array.GradientStop.swift */,
+				4D50EB08295E11A1001CDF97 /* Color-Custom.swift */,
+				4D50EB02295DE871001CDF97 /* Cloud.swift */,
+				4D50EB04295DE9A9001CDF97 /* CloudGroup.swift */,
+				4D50EB06295DEC59001CDF97 /* CloudsView.swift */,
 				4D50EAF8295DE7DD001CDF97 /* Assets.xcassets */,
 				4D50EAFA295DE7DD001CDF97 /* Preview Content */,
 			);
@@ -137,8 +203,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D50EB17295F5A42001CDF97 /* StormDrop.swift in Sources */,
+				4D52765E2969BE880095EFC9 /* MeteorShower.swift in Sources */,
+				4D50EB0F295F42F0001CDF97 /* Star.swift in Sources */,
+				4D50EB1B295F63E7001CDF97 /* ResidueDrop.swift in Sources */,
+				4D50EB0D295F2A74001CDF97 /* Color-Interpolation.swift in Sources */,
 				4D50EAF7295DE7DC001CDF97 /* ContentView.swift in Sources */,
+				4D50EB15295F59B1001CDF97 /* Storm.swift in Sources */,
+				4D50EB03295DE871001CDF97 /* Cloud.swift in Sources */,
+				4D50EB19295F5DB4001CDF97 /* StormView.swift in Sources */,
+				4D50EB21295F70B3001CDF97 /* WeatherDetailsView.swift in Sources */,
+				4D52765A2969B5900095EFC9 /* SunView.swift in Sources */,
+				4D50EB0B295E12CA001CDF97 /* Array.GradientStop.swift in Sources */,
+				4D52765C2969BCCC0095EFC9 /* Meteor.swift in Sources */,
+				4D50EB1D295F6565001CDF97 /* Residue.swift in Sources */,
+				4D50EB1F295F6FAF001CDF97 /* ResidueView.swift in Sources */,
+				4D50EB09295E11A1001CDF97 /* Color-Custom.swift in Sources */,
+				4D50EB11295F4348001CDF97 /* StarField.swift in Sources */,
+				4D84425B2967222400CE6898 /* LightningBolt.swift in Sources */,
 				4D50EAF5295DE7DC001CDF97 /* HackingWeatherApp.swift in Sources */,
+				4D50EB05295DE9A9001CDF97 /* CloudGroup.swift in Sources */,
+				4D50EB13295F4489001CDF97 /* StarsView.swift in Sources */,
+				4D84425D296723B100CE6898 /* Lightning.swift in Sources */,
+				4D84425F29672F6000CE6898 /* LightningView.swift in Sources */,
+				4D50EB07295DEC59001CDF97 /* CloudsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
